@@ -1,0 +1,28 @@
+{
+  "name": "simon_game",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dahl898/simon-game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dahl898/simon-game/issues"
+  },
+  "homepage": "https://github.com/dahl898/simon-game#readme",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^14.0.3",
+    "jquery": "^3.7.1"
+  }
+}
